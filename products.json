@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "name": "Taylor Swift-1989 (Taylor's version)",
+        "desc" : "Taylor Swift’s 1989 is a synth-pop masterpiece that redefined her sound, featuring hits like Shake It Off and Blank Space. This album captures the essence of reinvention, love, and heartbreak with anthemic energy.",
+        "price": 19,
+        "url":"assets/images/download.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Taylor Swift-Midnights",
+        "desc" : "Taylor Swift’s Midnights is a moody, introspective album that explores late-night thoughts, love, and self-reflection. With tracks like Anti-Hero and Lavender Haze, it weaves hypnotic synth-pop with raw emotion.",
+        "price": 22 ,
+        "url":"assets/images/midnightsvinyl.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Taylor Swift-Lover",
+        "desc" : "Taylor Swift’s Lover is a vibrant celebration of love, self-acceptance, and nostalgia. Featuring hits like Cruel Summer and You Need to Calm Down, it blends dreamy pop with heartfelt storytelling.",
+        "price": 25,
+        "url":"assets/images/la.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Taylor Swift- Reputation",
+        "desc" : "Taylor Swift’s Reputation is a bold, electrifying album that dives into themes of love, revenge, and self-discovery. With hits like Look What You Made Me Do and Delicate, it marks her fearless transformation.",
+        "price": 123,
+        "url":"assets/images/rep.jpg"
+        
+    },
+    {
+        "id": 5,
+        "name": "Taylor Swift-Speak Now",
+        "desc" : "Taylor Swift’s Speak Now is a heartfelt, self-written album filled with fairy-tale romance, regret, and personal growth. With hits like Back to December and Enchanted, it captures the magic of storytelling through music.",
+        "price": 13,
+       "url":"assets/images/sn.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "Taylor Swift-The Tortured Poets Department",
+        "desc" : "Taylor Swift’s The Tortured Poets Department is a deeply introspective album exploring heartbreak, longing, and poetic storytelling. Blending haunting melodies with raw emotion, it unveils her most vulnerable confessions yet.",
+        "price": 100,
+        "url":"assets/images/ttpd.jpg"
+    }
+]

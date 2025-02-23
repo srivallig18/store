@@ -1,0 +1,44 @@
+.header {
+    align-items: center;
+    display:flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: bisque;
+}
+.menu {
+    display:flex;
+    background-color: bisque;
+}
+.menu div {
+    padding: 10px;
+    background-color: bisque;
+}
+.row {
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: bisque;
+}
+.box {
+    width: 300px;
+    border: 1px solid lightblue;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px;
+    background-color: bisque;
+}
+
+.row button {
+    background-color: palevioletred;
+    font-size: 20px;
+    color: white;
+    width: 100%;
+    padding: 10px;
+    border-radius: 2px;
+    border: none;
+    font-weight: bold;
+}
+.footer
+{
+    background-color: bisque;
+}
